@@ -1,0 +1,46 @@
+Registration Page  
+</title>  
+</head>  
+<body bgcolor="skyblue">  
+<br>  
+<br>  
+<form>  
+ 
+<label> Name </label>        
+<input type="text" name="firstname" size="50"/> <br> <br>  
+<label>
+<label> Voter ID </label>        
+<input type="text" name="Voter ID" size="50"/> <br> <br>  
+<label>
+Gender :  
+</label><br>  
+<input type="radio" name="male"/> Male <br>  
+<input type="radio" name="female"/> Female <br>  
+<input type="radio" name="other"/> Other  
+<br>  
+<br>  
+<label>  
+Phone :  
+</label>  
+<input type="text" name="country code"  value="+91" size="12"/><br><br>
+
+<label> Party Name </label>        
+<input type="text" name="Part Name" size="50"/> <br> <br>  
+
+<label>
+<label> Politician Name </label>        
+<input type="text" name="Politician Name" size="50"/> <br> <br>  
+
+<label>
+<label> Zone Number </label>        
+<input type="text" name="Zone Number" size="50"/> <br> <br>  
+
+<label>
+Email:  
+<input type="email" id="email" name="email"/> <br>    
+<br> <br>  
+
+<input type="button" value="Submit"/>  
+</form>  
+</body>  
+</html>  
